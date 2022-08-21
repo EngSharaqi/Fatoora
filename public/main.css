@@ -1,0 +1,17 @@
+/* global */
+* {
+    direction: rtl;
+    text-align: right
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0
+}
+
+h4 { direction: rtl }
+
+/* table */
+table {
+
+}
